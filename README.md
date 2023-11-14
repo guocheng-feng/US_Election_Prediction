@@ -3,7 +3,7 @@ U.S. Presidential Election forecasting has been a research interest for several 
 
 ## Data Variables
 - **Census Data**: our census data is collected from [United States Census Bureau](https://www.census.gov/data)
-- **Economic Data**: In this study, we use GDP and personal income percapita, our data source is .
+- **Economic Data**: In this study, we use GDP and personal income percapita, our data source is from [Bureau of Economic Analysis in U.S. Department of Commerce](https://www.bea.gov/tools/).
 - **Polling Data**: We use the average of polling survey results corresponding to each state from August to election day in 2012, 2016, and 2020. For the 2012 polling surveys, the data are obtained from some polling reports, such as [YouGov](https://today.yougov.com/topics/politics/articles-reports) and [Public Policy Polling](https://www.publicpolicypolling.com/polls). For the polling surveys of 2016 and 2020, the data are extracted from [fivethirtyeight2016](https://projects.fivethirtyeight.com/2016-election-forecast/) and [fivethirtyeight2020](https://projects.fivethirtyeight.com/2020-election-forecast/).
 - **Tweet Data**: collected election related tweets dataset is stored in [our kaggle dataset](https://www.kaggle.com/datasets/matt0922/us-presidential-election-tweets)
 
